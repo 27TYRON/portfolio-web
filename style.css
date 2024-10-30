@@ -61,12 +61,28 @@ nav .right a span{
     display: flex;
     justify-content:space-between;
     padding: 0 50px;
-    margin: 50px 0; 
+    margin: 50px 0;
+    gap: 40px;; 
    }
 
 .hero-section .text{
  flex:5;
 }
+
+.hero-section .text h2{
+font: size 45px; 
+}
+
+.hero-section .text .links{
+margin: top 25px;
+}
+
+.hero-section .text .links a{
+   
+}
+
+
+
 
 .hero-section .headshot{
  flex:2; 
